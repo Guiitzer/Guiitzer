@@ -17,7 +17,7 @@
 
 <br />
 
-- ✨ trabalhando diariamente com React.JS, Next.JS(SSR), Typescript, SASS, Styled-Components, Material-UI, Git e outras coisas legais.
+- ✨ Trabalhando diariamente com React.JS, Next.JS(SSR), Typescript, SASS, Styled-Components, Material-UI, Git e outras coisas legais.
 
 <br />
 
