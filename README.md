@@ -11,9 +11,6 @@
 - 🥅 Objetivo atual: Melhorar meus conheçimentos em react-native, testes, docker, aws, node 🤣
 - ⚡ Curiosidades: Gosto de cantar, toco violão, viola, cavaquinho, pandeiro, guitarra e arrisco umas musicas no teclado 🎹
 
-<br />
-
-## Atualmente trabalhando em: *FiduciaSCM*
 
 <br />
 
